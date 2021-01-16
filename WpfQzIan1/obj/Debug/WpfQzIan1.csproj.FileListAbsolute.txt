@@ -1,0 +1,15 @@
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.csprojAssemblyReference.cache
+C:\g\t\WpfQzIan1\obj\Debug\MainWindow.g.cs
+C:\g\t\WpfQzIan1\obj\Debug\App.g.cs
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1_MarkupCompile.cache
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1_MarkupCompile.lref
+C:\g\t\WpfQzIan1\bin\Debug\WpfQzIan1.exe.config
+C:\g\t\WpfQzIan1\bin\Debug\WpfQzIan1.exe
+C:\g\t\WpfQzIan1\bin\Debug\WpfQzIan1.pdb
+C:\g\t\WpfQzIan1\obj\Debug\MainWindow.baml
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.g.resources
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.Properties.Resources.resources
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.csproj.GenerateResource.cache
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.csproj.CoreCompileInputs.cache
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.exe
+C:\g\t\WpfQzIan1\obj\Debug\WpfQzIan1.pdb

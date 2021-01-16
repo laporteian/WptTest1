@@ -1,0 +1,5 @@
+Toronto;Ian Laporte;e12345;2021-01-19;2021-01-25
+LasVegas;Mary Rower;g12987;2021-01-21;2021-01-28
+London;Remy Jackson;y11123;2021-02-09;2021-02-16
+Paris;Melanie Trump;x99666;2021-01-20;2021-01-28
+Barcelona;Clara Yaves;s22331;2021-02-06;2021-02-27
